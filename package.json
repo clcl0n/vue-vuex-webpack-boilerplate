@@ -4,7 +4,7 @@
   "description": "A boilerplate for Vue + Vuex + WebPack.",
   "main": "index.js",
   "dependencies": {
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "typescript": "^3.5.1",
     "vue": "^2.6.10",
     "vue-property-decorator": "^8.1.1",
